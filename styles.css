@@ -830,6 +830,11 @@ align-items: start;
 
     }
 
+    .about-para {
+
+        width: 90%;
+    }
+
 }
 
 
