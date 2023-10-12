@@ -1,7 +1,7 @@
 let name = document.getElementById("name");
 let email = document.getElementById("email");
 let date = document.getElementById("date");
-let text = document.getElementById("text");
+let text = document.getElementById("textarea");
 let number = document.getElementById("number");
 
 let btn = document.getElementById("btn");
